@@ -24,3 +24,5 @@ https://zhuanlan.zhihu.com/p/87864677
 ![](image/set4.jpg)
 
 ![](image/set5.jpg)
+
+我的mingw编译器是放在D盘的ENV文件夹里的，和我不一样需要把所有路径替换成你自己的
