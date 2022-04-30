@@ -12,3 +12,15 @@
 放入配置文件
 
 ![](image/set3.jpg)
+
+## 详细教程（偷懒于是引用）
+
+https://zhuanlan.zhihu.com/p/87864677
+
+## 注意事项
+
+命名时不要有中文，vscode不支持中文路径，否则你会这样
+
+![](image/set4.jpg)
+
+![](image/set5.jpg)
