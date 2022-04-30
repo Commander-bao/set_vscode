@@ -3,10 +3,10 @@
 
 首先新建一个文件夹，存放代码
 
-![](set1.jpg)
+![](image/set1.jpg)
 
 再这个文件夹里再新建一个文件夹，命名成 **.vscode**
 
-![](set2.jpg)
+![](image/set2.jpg)
 
 放入配置文件
