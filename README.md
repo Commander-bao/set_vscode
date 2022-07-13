@@ -27,3 +27,8 @@ https://zhuanlan.zhihu.com/p/87864677
 
 ![](image/set5.jpg)
 
+————7月13日更新————
+
+今天给虚拟机配置vscode的时候发现无法引用stdio.h，发现是设置里这个没有设置，记得填上
+
+![](image/set6.jpg)
